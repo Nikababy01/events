@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+}
+#pies{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.piecards{
+      
+    background-color: olive;
+    border: 2px solid black;
+    width: 30%;
+    margin 1%;
+    font-size: 14px;
+    font-family: Arial;
+    text-align: center;
+    font-weight: bold;
+    box-shadow: 5px black;
+}
+
+img{
+    width: 100%;
+}
+.piename{
+text-align: center;
+
+}
